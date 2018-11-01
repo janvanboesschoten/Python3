@@ -1,0 +1,40 @@
+ 
+
+MBA Company Project 
+
+For 
+
+
+Abstract 
+
+In the digital age, having a strong online presence is of vital importance for any company. As a 
+part of the Digital Plan 2020, VodafoneZiggo wants its website and mobile application to be its 
+primary channel for customer interaction and transactions. Achieving this is a challenging task as 
+it demands a radical change in the shopping behavior of the consumers to shift from retail to 
+online channels. 
+
+The purpose of this study is to investigate the barriers and drivers for the acceptance of Vodafone 
+online channels and give recommendations to the company which when implemented can result 
+in a boost of sales through online channels. 
+
+Technology Acceptance Model (TAM) serves as the foundation of research framework. TAM has 
+been extensively used to understand the factors influencing the acceptance of a new technology. 
+For this study, literature review has been done of studies which use TAM in a similar context. 
+The findings of these studies relevant to the case in question are identified. Multiple market 
+reports on online consumer behavior are studied to understand the barriers and motivators of 
+online shopping. 
+
+All the studies validated that perceived ease of use and perceived usefulness have a significant 
+influence over consumers’ behavioral intention to buy online. Majority of the studies also proved 
+that perceived risk had a negative influence on the consumers’ intention to buy online. 
+
+A sample questionnaire is created which can be used by the company to validate the findings. In 
+this study, potential antecedent for perceived ease of use was identified to be website quality, and 
+service quality was identified as an antecedent for perceived usefulness. 
+
+It was concluded that in order to be successful in online commerce, it is important for 
+VodafoneZiggo to expedite and improve its delivery mechanism and for this an Omni-channel 
+delivery approach utilizing the retail footprint is recommended. To reduce the risk of the 
+customer while buying online, it was recommended to include best price guarantee and online 
+only offers. Lastly, to improve the website design, elements such as comparison, customer 
+reviews and automated support must be included.
